@@ -1,0 +1,13 @@
+Sorry if my answer for question 3 looks strange.  I felt the meaning of least expensive was somewhat open to interpretation (sum of spend vs sum of CPV, etc) so I took an educated guess.
+
+
+
+Unique campaigns which occurred in February: 125
+
+Total conversions on plant initiatives: 299519
+
+The audience|asset combination with the least expensive average cost is: mountains_cow
+*Assuming "least expensive" refers to the average value of (CPM || CPV)/(total conversions for this campaign instance) for each combination*
+
+The average cost per video was view: 0.546782834117
+
